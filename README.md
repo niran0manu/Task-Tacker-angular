@@ -1,4 +1,11 @@
-# List
+# List![Task Tracker screenshot ](https://user-images.githubusercontent.com/11633823/213736301-e9a34f8f-a8e9-4368-9684-68847c895b39.png)
+
+Steps to run:
+1) npm init.
+2)ng serve -o.
+3) In a new terminal : npm run server 
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
