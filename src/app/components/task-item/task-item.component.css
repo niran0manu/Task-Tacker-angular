@@ -1,0 +1,20 @@
+.task{
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    background-color: whitesmoke;
+    box-shadow: 0 0 5px #ccc;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+
+}
+
+.task h4{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.task.reminder {
+  border-left: 5px solid green;
+}

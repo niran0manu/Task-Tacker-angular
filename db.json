@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Clean Your house ",
+      "day": "Every Saturday ",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Go to the gym ",
+      "day": "EVERYDAY !!!",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Study more ",
+      "day": "Everyday ",
+      "reminder": false,
+      "id": 5
+    }
+  ]
+}
