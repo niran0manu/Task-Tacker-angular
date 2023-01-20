@@ -1,5 +1,6 @@
-[Task Tracker screenshot ](https://user-images.githubusercontent.com/11633823/213736301-e9a34f8f-a8e9-4368-9684-68847c895b39.png)
 
+
+![Task Tracker screenshot ](https://user-images.githubusercontent.com/11633823/213738268-70dc42b3-eb65-4fd8-85fa-d651cbbf3b9f.png)
 
 # List!
 Steps to run:
